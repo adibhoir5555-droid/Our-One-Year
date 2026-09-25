@@ -34,7 +34,7 @@ body {
   padding: 24px;
   background:
     linear-gradient(rgba(255,249,248,.45), rgba(255,249,248,.85)),
-    url("images/photo1.jpg") center/cover;
+    url("photo1.jpg") center/cover;
 }
 
 .hero-card {
